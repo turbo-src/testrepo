@@ -15,3 +15,7 @@ A single minority voter attempts to vote twice, but is prevented from doing so. 
 ## 4. Many voters
 
 Many voters at on a single pull request.
+
+## 5. Semi-automatically vote on a single pull request.
+
+Many voters at on a single pull request, with a single manual swing vote.
