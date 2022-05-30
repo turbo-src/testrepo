@@ -11,3 +11,7 @@ One voter with a majority of tokens votes. Vote closes immediately and the pull 
 ## 3. Duplicate Vote
 
 A single minority voter attempts to vote twice, but is prevented from doing so. A majority voter then votes and the vote closes and the pull request is auto merged.
+
+## 4. Many voters
+
+Many voters at on a single pull request.
